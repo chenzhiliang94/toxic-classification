@@ -1,4 +1,4 @@
-#### Warning: NSFW language
+#### Warning: NSFW language in code files / data set
 
 # Introduction
 In 2017, seven out of 10 Singaporeans are active on social media platforms on mobile devices - more than double the global average (http://www.businesstimes.com.sg/consumer/7-in-10-singaporeans-use-social-media-on-mobile-double-global-average-survey). With these platforms, Singaporeans are able to leave digital footprints in the form of online comments and social media posts. However, we are all too familiar with situations where people use the Internet to perform criminal deeds. For example, terrorist groups have long used Twitter to radicalise followers; some Singaporeans have also left racially discriminatory remarks on Facebook. It is then natural for us to ask, how can a person of authority monitor a digital city filled with a mix of innocent and _unsafe_ information?
