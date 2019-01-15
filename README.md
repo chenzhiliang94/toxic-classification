@@ -12,5 +12,6 @@ We will use a common corpus-vectorization method to decompose texts into numeric
 - Emoji stemming - we convert emoji into words
 
  # Overview of results
- We then compare the results of this model (A linear model after feature engineering) with other conventional models such as LSTM. Surprisingly, this model outperforms deep learning model for certain negative category.
+We then compare the results of this model (A linear model after feature engineering) with other conventional models such as LSTM with a metric such as AUC score.
+ ![alt text](/results/results.png)
  
