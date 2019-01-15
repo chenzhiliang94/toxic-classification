@@ -12,6 +12,7 @@ We will use a common corpus-vectorization method to decompose texts into numeric
 - Emoji stemming - we convert emoji into words
 
  # Overview of results
-We then compare the results of this model (A linear model after feature engineering) with other conventional models such as LSTM with a metric such as AUC score.
+We then compare the results of this model (A linear model after feature engineering) with other conventional models such as LSTM with an AUC score metric (because we value both true positives and negatives in this context).
+
  ![alt text](/results/results.png)
  
